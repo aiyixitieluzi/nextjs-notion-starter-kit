@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: "Chen's world",
   domain: 'https://yanzu-wu.notion.site/cbfc3860e6464777bfcd508034ee4cfb',
   author: 'Chen',
 
